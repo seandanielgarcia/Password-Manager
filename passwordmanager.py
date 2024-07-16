@@ -139,7 +139,7 @@ def run_password_manager(masterPwd):
 def runProgram():
     
     passwordChances = 5
-    masterPwd = "CodingIsFun"
+    masterPwd = "example"
     while passwordChances > 0:
         masterPassword = input("What is the master password? ")
 
